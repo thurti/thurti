@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Thomas</h1>
-- 🔭 I’m currently working on [myself](@thurti)
+<p align="center">🔭 I’m currently working on <a href="https://github.com/thurti">myself</a>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
